@@ -1,0 +1,47 @@
+<html>
+   <head>
+      <title>Register</title>
+   </head>
+   <body>
+   <!--this is form Web-->
+      <right>
+	  
+         <h2>Please fill in the form correctly!</h2>
+         <form action="" method="post">
+             
+<p>
+               <label for="firstName">Insert your First Name:</label>
+               <input type="text" name="first_name">
+            </p>
+ 
+             
+<p>
+               <label for="lastName">Insert your Last Name:</label>
+               <input type="text" name="last_name">
+            </p>
+ 
+             
+<p>
+               <label for="Age">Insert your age:</label>
+               <input type="text" name="age">
+            </p>
+			
+			
+	<p>
+                Insert your state:
+				<select name="state">
+					<option value="Perlis">Perlis</option>
+					<option value="Kedah">Kedah</option>
+					<option value="Kelantan">Kelantan</option>
+					<option value="Pahang">Pahang</option>
+					<option value="Negeri Sembilan">Negeri Sembilan</option>
+					<option value="Perak">Perak</option>
+					<option value="Sabah">Sabah</option>
+				</select>
+            </p>		
+ <!-- this is an input button-->
+            <br><input type="submit" name="submit" value= "submit">
+         </form>
+      </center>
+   </body>
+</html>
