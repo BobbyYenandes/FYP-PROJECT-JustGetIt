@@ -39,7 +39,7 @@
 					<option value="Sabah">Sabah</option>
 				</select>
             </p>		
- 
+ <!-- this is an input button-->
             <br><input type="submit" name="submit" value= "submit">
          </form>
       </center>
