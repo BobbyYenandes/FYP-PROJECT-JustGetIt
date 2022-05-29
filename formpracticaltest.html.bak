@@ -5,7 +5,7 @@
    <body>
    
       <right>
-	  <!--this is form web-->
+	  <!--this is form web application-->
          <h2>Please fill in the form correctly!</h2>
          <form action="" method="post">
              
